@@ -1,4 +1,4 @@
-RWD-Table-Patterns
+Sticky Micky Table
 ==================
 
 This is a forked and trimmed down version of [RWD Table Patterns](http://gergeo.se/RWD-Table-Patterns/) for making a `table` sticky upon scroll. 
