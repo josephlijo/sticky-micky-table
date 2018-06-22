@@ -1,0 +1,45 @@
+{
+  "name": "sticky-micky-table",
+  "description": "Sticky Micky makes the tables sticky",
+  "version": "1.0.0",
+  "keywords": [
+    "StickyMicky",
+    "sticky-micky-table",
+    "tables",
+    "IE 11 sticky header",
+    "sticky header"
+  ],
+  "homepage": "https://github.com/josephlijo/sticky-micky-table",
+  "authors": [
+    "Nadan Gergeo <nadan@blimp.se> (www.blimp.se)",
+    "Lucas Wiener <lucas@blimp.se> (www.blimp.se)",
+    "Maggie Wachs (www.filamentgroup.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephlijo/sticky-micky-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josephlijo/sticky-micky-table/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/josephlijo/sticky-micky-table/blob/master/LICENSE"
+  },
+  "main": "dist/js/sticky-micky-table",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-banner": "^0.6.0",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^4.0.0"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "sticky-micky-table",
+  "description": "Sticky Micky makes the tables sticky",
+  "version": "1.0.0",
+  "keywords": [
+    "StickyMicky",
+    "sticky-micky-table",
+    "tables",
+    "IE 11 sticky header",
+    "sticky header"
+  ],
+  "homepage": "https://github.com/josephlijo/sticky-micky-table",
+  "authors": [
+    "Nadan Gergeo <nadan@blimp.se> (www.blimp.se)",
+    "Lucas Wiener <lucas@blimp.se> (www.blimp.se)",
+    "Maggie Wachs (www.filamentgroup.com)",
+    "Ryan Hafer <hafer.ryan@gmail.com> (ryansh100.github.io)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephlijo/sticky-micky-table.git"
+  },
+  "license": "MIT",
+  "main": [
+    "dist/js/sticky-micky-table.js",
+    "dist/css/sticky-micky-table.css"
+  ],
+  "ignore": [
+    ".*",
+    "docs"
+  ],
+  "dependencies": {
+    "jquery": ">=1.10.1"
+  }
+}
